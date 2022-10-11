@@ -1,0 +1,4 @@
+version=3
+
+options=pgpsigurlmangle=s/$/.sig/ \
+http://sf.net/quvi/libquvi-scripts-(.*).tar.(?:xz|gz|bz2)
